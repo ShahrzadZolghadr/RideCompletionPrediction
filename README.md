@@ -19,6 +19,8 @@ In this problem like anomaly detection problems the 1 class is so important. Aco
 * Oversampling can be also considered
 
 # Reproduce the service
+The service can be deployed using this project and is also available here: http://37.32.25.137:8005/docs
+
 Image building command:
   docker build -t canselpred .
   
